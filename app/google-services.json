@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310947776453",
+    "project_id": "quixote-internship-task",
+    "storage_bucket": "quixote-internship-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310947776453:android:5ee5abdd2aa1996ba92dac",
+        "android_client_info": {
+          "package_name": "com.example.quixoteinternshiptask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310947776453-a9ju39tqtupuom8vtlob7s6r7tuhd4ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhIsDlPD2fYEfxvnLK9oYvWzS48Sfb4X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310947776453-a9ju39tqtupuom8vtlob7s6r7tuhd4ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
