@@ -130,7 +130,7 @@ public class signup extends AppCompatActivity {
                             +"([0-1]?[0-9]{1,2}|25[0-5]|2[0-4][0-9])\\.([0-1]?"
                             +"[0-9]{1,2}|25[0-5]|2[0-4][0-9])){1}|"
                             +"([a-zA-Z]+[\\w-]+\\.)+[a-zA-Z]{2,4})$";
-            String passwordpattern = "^(?=.[a-z])" + !newPassword.contains(newUser) + "(?=.[A-Z]) (?=.[A-Z]) (?=.[@#$%^&+=]) (?=.[0-9]) (?=.*[0-9]){8,23}";
+            String passwordpattern = "^(?=.[a-z])" + !newPassword.contains(newUser) + "(?=.[A-Z]) (?=.[A-Z]) (?=.[@#$%^&+=]) (?=.[0-9]) (?=.*[0-9]){8,14}";
         btnRegister.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
